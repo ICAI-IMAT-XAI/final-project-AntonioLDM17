@@ -2,4 +2,4 @@
 
 TODO ESTÁ EN EL REPOSITORIO DE LA ASIGNATURA DE MLOPS, MIRA EL README.md DE ALLÍ.
 # MLOps Course Repository
-[text](https://github.com/AntonioLDM17/mlops-practica-icai)
+[https://github.com/AntonioLDM17/mlops-practica-icai](https://github.com/AntonioLDM17/mlops-practica-icai)
